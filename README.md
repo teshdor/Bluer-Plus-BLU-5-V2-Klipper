@@ -1,7 +1,9 @@
 File List:
 
 printer.cfg - This is my Klipper config for the Two Trees Bluer Plus (BLU-5) (V2)
+
 Robin_nano43.bin - This is the Klipper firmware compiled for the Bluer Plus (V2)
+
 README.md - This file.
 
 *The V2 is not in the model name, it is just a way to differentiate from the original Bluer Plus.
